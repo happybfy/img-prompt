@@ -51,19 +51,6 @@ export function Navigation() {
           items={items}
         />
       </Col>
-      <Col>
-        <Row gutter={16} wrap={false}>
-          <Col>
-            <a
-              href='https://github.com/happybfy/img-prompt/'
-              target='_blank'
-              rel='noopener noreferrer'
-              style={{ marginLeft: "10px" }}>
-              <GithubOutlined style={{ color: "black", fontSize: "24px" }} />
-            </a>
-          </Col>
-        </Row>
-      </Col>
     </Row>
   );
 }
