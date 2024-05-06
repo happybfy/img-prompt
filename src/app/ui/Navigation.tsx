@@ -22,7 +22,7 @@ const items: MenuProps["items"] = [
   {
     label: (
       <a
-        href='https://prompt.wapple.cn/'
+        href='https://prompt.vercel.wapple.cn/'
         target='_blank'
         rel='noopener noreferrer'>
         ChatGPT Shortcut
